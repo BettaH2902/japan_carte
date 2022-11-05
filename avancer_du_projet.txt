@@ -1,0 +1,10 @@
+##################
+
+note avancé du projet 
+
+##################
+
+read_write_csv : fonction avec les fichier csv qui ne prennent pas en compte des caractères japonais
+
+page_ajout_carte : début d'ebauche
+

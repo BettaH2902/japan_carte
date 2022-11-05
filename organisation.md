@@ -1,5 +1,7 @@
 
 
+
+
 Developpement organisation de rangament des fichiers
 
 
@@ -51,3 +53,38 @@ dev du systeme de frequence :
 
     3 ligne X*1.4
     
+
+
+
+
+
+    Organisation des fichiers tkinter
+
+    - 1er création de la page qui propose l'image :
+    2 boutons
+
+
+
+    Plus tard création de page intro, avec choix de nombre de carte, et ajout de carte, lang ...
+
+    rangement des cartes :
+            dossier des cartes :
+                 dossier carte japonaise :
+                    dossier par selection
+                 dossier carte française 
+                    dossier par selection
+
+
+rangment fichier .ods dans dossier carte japonaise / française
+
+type : 0(animaux), 1(couleur) ....
+numero de la carte (similaire entre fr et jap)
+nom image fr
+nom image jap
+année
+mois
+jour 
+heure
+minute 
+frequence
+freq grande erreur
